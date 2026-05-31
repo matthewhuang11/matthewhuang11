@@ -1,0 +1,259 @@
+<svg viewBox="0 0 640 120" xmlns="http://www.w3.org/2000/svg" width="640">
+  <defs>
+    <style>
+      @keyframes sunpulse { 0%,100%{opacity:0.85} 50%{opacity:1} }
+      .sunc { animation: sunpulse 5s ease-in-out infinite; }
+
+      @keyframes b1 {
+        0%   { transform: translate(160px,44px); }
+        8%   { transform: translate(195px,28px); }
+        18%  { transform: translate(220px,36px); }
+        30%  { transform: translate(220px,36px); }
+        42%  { transform: translate(248px,55px); }
+        54%  { transform: translate(200px,62px); }
+        62%  { transform: translate(200px,62px); }
+        74%  { transform: translate(170px,30px); }
+        86%  { transform: translate(142px,50px); }
+        93%  { transform: translate(142px,50px); }
+        100% { transform: translate(160px,44px); }
+      }
+      @keyframes b2 {
+        0%   { transform: translate(480px,52px); }
+        9%   { transform: translate(510px,32px); }
+        20%  { transform: translate(536px,42px); }
+        32%  { transform: translate(536px,42px); }
+        44%  { transform: translate(558px,60px); }
+        55%  { transform: translate(520px,68px); }
+        64%  { transform: translate(520px,68px); }
+        76%  { transform: translate(492px,36px); }
+        88%  { transform: translate(468px,52px); }
+        94%  { transform: translate(468px,52px); }
+        100% { transform: translate(480px,52px); }
+      }
+      @keyframes bf {
+        0%   { transform: translate(290px,52px) scaleX(1); }
+        14%  { transform: translate(330px,32px) scaleX(1); }
+        26%  { transform: translate(375px,44px) scaleX(1); }
+        38%  { transform: translate(375px,44px) scaleX(1); }
+        52%  { transform: translate(335px,58px) scaleX(-1); }
+        66%  { transform: translate(295px,38px) scaleX(-1); }
+        78%  { transform: translate(295px,38px) scaleX(-1); }
+        100% { transform: translate(290px,52px) scaleX(1); }
+      }
+      @keyframes bfw {
+        0%,100% { transform: scaleY(1); }
+        50%     { transform: scaleY(0.45); }
+      }
+
+      .b1  { animation: b1  13s cubic-bezier(0.45,0.05,0.55,0.95) infinite; }
+      .b2  { animation: b2  15s cubic-bezier(0.45,0.05,0.55,0.95) infinite 1s; }
+      .bfg { animation: bf  20s cubic-bezier(0.45,0.05,0.55,0.95) infinite 2s; }
+      .bfw { animation: bfw 0.55s ease-in-out infinite; }
+
+      @keyframes sw  { 0%,100%{transform:skewX(0deg)}  50%{transform:skewX(3.5deg)} }
+      @keyframes sw2 { 0%,100%{transform:skewX(0.5deg)} 50%{transform:skewX(-3.5deg)} }
+      @keyframes sw3 { 0%,100%{transform:skewX(-0.5deg)} 50%{transform:skewX(2.5deg)} }
+      @keyframes sw4 { 0%,100%{transform:skewX(0deg)}  50%{transform:skewX(-2.5deg)} }
+      .s1 { animation: sw  2.6s ease-in-out infinite; }
+      .s2 { animation: sw2 3.0s ease-in-out infinite 0.5s; }
+      .s3 { animation: sw3 2.8s ease-in-out infinite 1.0s; }
+      .s4 { animation: sw4 3.2s ease-in-out infinite 0.3s; }
+      .s5 { animation: sw  2.4s ease-in-out infinite 0.8s; }
+      .s6 { animation: sw2 2.9s ease-in-out infinite 1.3s; }
+      .s7 { animation: sw3 3.1s ease-in-out infinite 0.2s; }
+      .s8 { animation: sw4 2.7s ease-in-out infinite 0.7s; }
+    </style>
+  </defs>
+
+  <!-- sky — very soft, barely tinted -->
+  <rect x="0" y="0" width="640" height="120" fill="#e8f4fb"/>
+
+  <!-- subtle horizon warmth -->
+  <rect x="0" y="80" width="640" height="20" fill="#eef7e8" opacity="0.5"/>
+
+  <!-- sun — soft and understated -->
+  <circle cx="54" cy="26" r="28" fill="#fff8dc" opacity="0.5"/>
+  <circle cx="54" cy="26" r="18" fill="#fef3a0" opacity="0.7"/>
+  <circle cx="54" cy="26" r="11" fill="#fde96a" class="sunc"/>
+
+  <!-- ground -->
+  <rect x="0" y="100" width="640" height="20" fill="#7ab87f"/>
+  <rect x="0" y="100" width="640" height="2.5" fill="#8dcf93"/>
+
+  <!-- bench -->
+  <rect x="340" y="84" width="60" height="4"   fill="#b8885e" rx="2"/>
+  <rect x="340" y="91" width="60" height="4.5" fill="#c49468" rx="2"/>
+  <rect x="344" y="84" width="3.5" height="13" fill="#9a7048" rx="1"/>
+  <rect x="393" y="84" width="3.5" height="13" fill="#9a7048" rx="1"/>
+  <rect x="344" y="95" width="3.5" height="9"  fill="#9a7048" rx="1"/>
+  <rect x="393" y="95" width="3.5" height="9"  fill="#9a7048" rx="1"/>
+
+  <!-- grass tone slightly muted -->
+
+  <!-- cluster 1 far left -->
+  <g class="s2" style="transform-origin:14px 100px">
+    <line x1="6"  y1="100" x2="3"  y2="85" stroke="#4a8a54" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="13" y1="100" x2="16" y2="82" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="20" y1="100" x2="17" y2="87" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="27" y1="100" x2="24" y2="84" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+  </g>
+  <g class="s3" style="transform-origin:38px 100px">
+    <line x1="38" y1="100" x2="38" y2="88" stroke="#4a8a54" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="38" cy="87" r="3.5" fill="#f4b8cc" opacity="0.9"/>
+    <circle cx="38" cy="87" r="1.5" fill="#f9a825"/>
+  </g>
+  <g class="s4" style="transform-origin:50px 100px">
+    <line x1="50" y1="100" x2="50" y2="91" stroke="#4a8a54" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="50" cy="90" r="3"   fill="#f5e07a" opacity="0.9"/>
+    <circle cx="50" cy="90" r="1.3" fill="#e8a020"/>
+  </g>
+
+  <!-- cluster 2 -->
+  <g class="s1" style="transform-origin:78px 100px">
+    <line x1="72" y1="100" x2="69" y2="86" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="78" y1="100" x2="81" y2="83" stroke="#4a8a54" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="84" y1="100" x2="81" y2="88" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+  </g>
+  <g class="s6" style="transform-origin:95px 100px">
+    <line x1="95" y1="100" x2="95" y2="89" stroke="#4a8a54" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="95" cy="88" r="3.5" fill="#c9b8f0" opacity="0.9"/>
+    <circle cx="95" cy="88" r="1.5" fill="#f9a825"/>
+  </g>
+  <g class="s5" style="transform-origin:107px 100px">
+    <line x1="107" y1="100" x2="107" y2="91" stroke="#5a9e62" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="107" cy="90" r="3"   fill="#f4b8cc" opacity="0.9"/>
+    <circle cx="107" cy="90" r="1.3" fill="#f9a825"/>
+  </g>
+
+  <!-- cluster 3 -->
+  <g class="s7" style="transform-origin:142px 100px">
+    <line x1="136" y1="100" x2="133" y2="86" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="142" y1="100" x2="145" y2="83" stroke="#5a9e62" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="148" y1="100" x2="145" y2="88" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+  </g>
+  <g class="s2" style="transform-origin:158px 100px">
+    <line x1="158" y1="100" x2="158" y2="89" stroke="#4a8a54" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="158" cy="88" r="3.5" fill="#f5e07a" opacity="0.9"/>
+    <circle cx="158" cy="88" r="1.5" fill="#e8a020"/>
+  </g>
+  <g class="s8" style="transform-origin:170px 100px">
+    <line x1="170" y1="100" x2="170" y2="92" stroke="#5a9e62" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="170" cy="91" r="3"   fill="#c9b8f0" opacity="0.9"/>
+    <circle cx="170" cy="91" r="1.3" fill="#f9a825"/>
+  </g>
+
+  <!-- cluster 4 left of bench -->
+  <g class="s4" style="transform-origin:215px 100px">
+    <line x1="209" y1="100" x2="206" y2="86" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="215" y1="100" x2="218" y2="83" stroke="#4a8a54" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="221" y1="100" x2="218" y2="88" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+  </g>
+  <g class="s3" style="transform-origin:231px 100px">
+    <line x1="231" y1="100" x2="231" y2="89" stroke="#4a8a54" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="231" cy="88" r="3.5" fill="#f4b8cc" opacity="0.9"/>
+    <circle cx="231" cy="88" r="1.5" fill="#f9a825"/>
+  </g>
+  <g class="s1" style="transform-origin:243px 100px">
+    <line x1="243" y1="100" x2="243" y2="91" stroke="#5a9e62" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="243" cy="90" r="3"   fill="#f5e07a" opacity="0.9"/>
+    <circle cx="243" cy="90" r="1.3" fill="#e8a020"/>
+  </g>
+
+  <!-- cluster 5 right of bench -->
+  <g class="s5" style="transform-origin:440px 100px">
+    <line x1="434" y1="100" x2="431" y2="86" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="440" y1="100" x2="443" y2="83" stroke="#5a9e62" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="446" y1="100" x2="443" y2="88" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+  </g>
+  <g class="s7" style="transform-origin:457px 100px">
+    <line x1="457" y1="100" x2="457" y2="89" stroke="#5a9e62" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="457" cy="88" r="3.5" fill="#c9b8f0" opacity="0.9"/>
+    <circle cx="457" cy="88" r="1.5" fill="#f9a825"/>
+  </g>
+  <g class="s6" style="transform-origin:469px 100px">
+    <line x1="469" y1="100" x2="469" y2="91" stroke="#4a8a54" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="469" cy="90" r="3"   fill="#f4b8cc" opacity="0.9"/>
+    <circle cx="469" cy="90" r="1.3" fill="#f9a825"/>
+  </g>
+
+  <!-- cluster 6 right-mid -->
+  <g class="s8" style="transform-origin:504px 100px">
+    <line x1="498" y1="100" x2="495" y2="85" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="504" y1="100" x2="507" y2="82" stroke="#4a8a54" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="510" y1="100" x2="507" y2="87" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+  </g>
+  <g class="s4" style="transform-origin:521px 100px">
+    <line x1="521" y1="100" x2="521" y2="89" stroke="#4a8a54" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="521" cy="88" r="3.5" fill="#f5e07a" opacity="0.9"/>
+    <circle cx="521" cy="88" r="1.5" fill="#e8a020"/>
+  </g>
+
+  <!-- cluster 7 far right -->
+  <g class="s2" style="transform-origin:557px 100px">
+    <line x1="551" y1="100" x2="548" y2="84" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="557" y1="100" x2="560" y2="81" stroke="#5a9e62" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="563" y1="100" x2="560" y2="86" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="569" y1="100" x2="566" y2="83" stroke="#5a9e62" stroke-width="2"   stroke-linecap="round"/>
+  </g>
+  <g class="s1" style="transform-origin:579px 100px">
+    <line x1="579" y1="100" x2="579" y2="89" stroke="#4a8a54" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="579" cy="88" r="3.5" fill="#f4b8cc" opacity="0.9"/>
+    <circle cx="579" cy="88" r="1.5" fill="#f9a825"/>
+  </g>
+  <g class="s3" style="transform-origin:591px 100px">
+    <line x1="591" y1="100" x2="591" y2="91" stroke="#5a9e62" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="591" cy="90" r="3"   fill="#c9b8f0" opacity="0.9"/>
+    <circle cx="591" cy="90" r="1.3" fill="#f9a825"/>
+  </g>
+  <g class="s5" style="transform-origin:610px 100px">
+    <line x1="604" y1="100" x2="601" y2="85" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+    <line x1="610" y1="100" x2="613" y2="82" stroke="#5a9e62" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="616" y1="100" x2="613" y2="87" stroke="#4a8a54" stroke-width="2"   stroke-linecap="round"/>
+  </g>
+  <g class="s6" style="transform-origin:626px 100px">
+    <line x1="626" y1="100" x2="626" y2="90" stroke="#5a9e62" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="626" cy="89" r="3"   fill="#f5e07a" opacity="0.9"/>
+    <circle cx="626" cy="89" r="1.3" fill="#e8a020"/>
+  </g>
+
+  <!-- Bee 1 -->
+  <g class="b1">
+    <ellipse cx="0" cy="0" rx="8.5" ry="5" fill="#e8960a"/>
+    <rect x="-3.2" y="-2" width="1.9" height="4.2" rx="0.6" fill="#1c1c1c"/>
+    <rect x="1.3"  y="-2" width="1.9" height="4.2" rx="0.6" fill="#1c1c1c"/>
+    <ellipse cx="-2"  cy="-5" rx="5.2" ry="2.4" fill="#dbeafe" opacity="0.8"/>
+    <ellipse cx="2.4" cy="-5" rx="5.2" ry="2.4" fill="#dbeafe" opacity="0.8"/>
+    <circle cx="6.5" cy="-0.8" r="1.5" fill="#1c1c1c"/>
+  </g>
+
+  <!-- Bee 2 -->
+  <g class="b2">
+    <ellipse cx="0" cy="0" rx="7.5" ry="4.5" fill="#e8960a"/>
+    <rect x="-2.8" y="-1.8" width="1.7" height="3.8" rx="0.5" fill="#1c1c1c"/>
+    <rect x="1.1"  y="-1.8" width="1.7" height="3.8" rx="0.5" fill="#1c1c1c"/>
+    <ellipse cx="-1.8" cy="-4.6" rx="4.8" ry="2.1" fill="#dbeafe" opacity="0.8"/>
+    <ellipse cx="2"    cy="-4.6" rx="4.8" ry="2.1" fill="#dbeafe" opacity="0.8"/>
+    <circle cx="6" cy="-0.8" r="1.3" fill="#1c1c1c"/>
+  </g>
+
+  <!-- Butterfly — smaller, softer colors -->
+  <g class="bfg">
+    <g class="bfw" style="transform-origin:0px 0px">
+      <!-- upper wings -->
+      <ellipse cx="-6" cy="-5" rx="7"   ry="4.5" fill="#fb923c" opacity="0.75" transform="rotate(-18)"/>
+      <ellipse cx="6"  cy="-5" rx="7"   ry="4.5" fill="#fb923c" opacity="0.75" transform="rotate(18)"/>
+      <ellipse cx="-6" cy="-5" rx="3.5" ry="2.2" fill="#fcd34d" opacity="0.5"  transform="rotate(-18)"/>
+      <ellipse cx="6"  cy="-5" rx="3.5" ry="2.2" fill="#fcd34d" opacity="0.5"  transform="rotate(18)"/>
+      <!-- lower wings -->
+      <ellipse cx="-5" cy="4"  rx="5"   ry="3.2" fill="#f97316" opacity="0.65" transform="rotate(12)"/>
+      <ellipse cx="5"  cy="4"  rx="5"   ry="3.2" fill="#f97316" opacity="0.65" transform="rotate(-12)"/>
+    </g>
+    <!-- body -->
+    <ellipse cx="0" cy="0" rx="1.4" ry="5.5" fill="#292524"/>
+    <!-- antennae -->
+    <line x1="0" y1="-5" x2="-4" y2="-11" stroke="#292524" stroke-width="0.9" stroke-linecap="round"/>
+    <line x1="0" y1="-5" x2="4"  y2="-11" stroke="#292524" stroke-width="0.9" stroke-linecap="round"/>
+    <circle cx="-4" cy="-11" r="1" fill="#292524"/>
+    <circle cx="4"  cy="-11" r="1" fill="#292524"/>
+  </g>
+</svg>
