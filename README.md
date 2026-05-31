@@ -43,17 +43,3 @@ ai/ml fundamentals &nbsp;·&nbsp; system design &nbsp;·&nbsp; starting gt cs th
 `📝 poetry` &nbsp; `🎹 piano` &nbsp; `🏃 running` &nbsp; `🏗️ building things`
 
 ---
-
-### 📊 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matthewhuang11&show_icons=true&theme=default&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewhuang11&layout=compact&hide_border=true&theme=default" height="140"/>
-</p>
-
----
-
-<p align="center">
-  <a href="[YOUR WEBSITE]">website</a> &nbsp;·&nbsp;
-  <a href="https://github.com/matthewhuang11">github</a>
-</p>
