@@ -14,9 +14,9 @@ georgia tech cs '30 • building cool stuff
 
 | project | what it is | status |
 |---------|-----------|--------|
-| [**stickies**](https://stickies-seven.vercel.app) | a wall of tilted sticky notes for capturing thoughts without friction. the anti-apple-notes. | ✅ live |
-| **daybreak** | all-in-one morning routine — weather, journaling, intentions, and quotes in one tab | 🔄 iterating |
-| **oratorium** | ai communication coach. duolingo for public speaking | 🔒 stealth |
+| [**stickies**](https://stickies-seven.vercel.app) | a wall of tilted sticky notes for capturing thoughts without friction. the anti-apple-notes. | live |
+| **daybreak** | all-in-one morning routine — weather, journaling, intentions, and quotes in one tab | iterating |
+| **oratorium** | ai communication coach. duolingo for public speaking | stealth |
 
 ---
 
