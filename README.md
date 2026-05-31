@@ -48,7 +48,7 @@
 
 ### hey, i'm matthew 👋
 
-builder • georgia tech cs '30 • currently: building in public
+ georgia tech cs '30 • building cool stuff
 
 ---
 
