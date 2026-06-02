@@ -5,7 +5,7 @@
  
 ### Matthew Huang
  
-CS @ Georgia Tech '28 &nbsp;·&nbsp; building software that feels good to use
+CS @ Georgia Tech '28 &nbsp;·&nbsp; building cool stuff
  
 ---
  
@@ -13,8 +13,8 @@ CS @ Georgia Tech '28 &nbsp;·&nbsp; building software that feels good to use
  
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of tilted sticky notes for capturing thoughts without friction. The anti-Apple-Notes. | ✅ Live |
-| **Daybreak** | The calm, intentional entry point to your day — weather, journaling, and intentions in one tab. | 🔄 Iterating |
+| [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of sticky notes for capturing thoughts without friction. | ✅ Live |
+| **Daybreak** | The calm, intentional entry point to your day 
 | **Oratorium** | TBA | 🔒 Stealth |
  
 ---
