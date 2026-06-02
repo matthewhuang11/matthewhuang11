@@ -33,7 +33,7 @@ CS @ Georgia Tech '28 &nbsp;·&nbsp; the world is your oyster
  
 ### 📚 Currently exploring
  
-AI/ML fundamentals &nbsp;·&nbsp; System design &nbsp;·&nbsp; Starting GT this fall
+Entreprenuership &nbsp;·&nbsp; AI/ML Fundamentals &nbsp;·&nbsp; Starting at GT this fall
  
 ---
  
@@ -44,7 +44,7 @@ AI/ML fundamentals &nbsp;·&nbsp; System design &nbsp;·&nbsp; Starting GT this 
 ---
  
 <p align="center">
-  <a href="[YOUR WEBSITE]">Website</a> &nbsp;·&nbsp;
+  <a href="[https://matthewhuang.vercel.app/]">Website</a> &nbsp;·&nbsp;
   <a href="https://github.com/matthewhuang11">GitHub</a>
 </p>
  
