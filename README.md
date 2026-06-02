@@ -5,7 +5,7 @@
  
 ### Matthew Huang
  
-CS @ Georgia Tech '28 &nbsp;·&nbsp; building cool stuff
+CS @ Georgia Tech '28 &nbsp;·&nbsp; the world is your oyster
  
 ---
  
