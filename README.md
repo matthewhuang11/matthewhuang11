@@ -13,9 +13,9 @@ CS @ Georgia Tech '28 &nbsp;·&nbsp; building cool stuff
  
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of sticky notes for capturing thoughts without friction. | ✅ Live |
-| **Daybreak** | The calm, intentional entry point to your day 
-| **Oratorium** | TBA | 🔒 Stealth |
+| [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of sticky notes for capturing thoughts without friction. | Live |
+| [**Daybreak**](daybreak2.vercel.app) | The calm, intentional entry point to your day | Live |
+| **Oratorium** | TBA |  Stealth |
  
 ---
  
