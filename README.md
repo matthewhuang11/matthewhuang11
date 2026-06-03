@@ -5,7 +5,7 @@
  
 ### Matthew Huang
  
-CS @ Georgia Tech '30 &nbsp;·&nbsp; the world is your oyster
+CS @ Georgia Tech ' 30 &nbsp;·&nbsp; the world is your oyster
  
 ---
  
