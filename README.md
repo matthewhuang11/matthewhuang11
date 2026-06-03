@@ -44,7 +44,7 @@ Entreprenuership &nbsp;·&nbsp; AI/ML Fundamentals &nbsp;·&nbsp; Starting at GT
 ---
  
 <p align="center">
-  <a href="[https://matthewhuang.vercel.app/]">Website</a> &nbsp;·&nbsp;
+  <a href="https://matthewhuang.vercel.app/">Website</a> &nbsp;·&nbsp;
   <a href="https://github.com/matthewhuang11">GitHub</a>
 </p>
  
