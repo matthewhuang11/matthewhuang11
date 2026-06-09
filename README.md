@@ -15,7 +15,7 @@ CS @ Georgia Tech ' 30 &nbsp;·&nbsp; the world is your oyster
 |---------|-------------|--------|
 | [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of sticky notes for capturing thoughts without friction. | Live |
 | [**Daybreak**](daybreak2.vercel.app) | The calm, intentional entry point to your day | Live |
-| **Oratorium** | TBA |  Stealth |
+| **Clairo** | TBA |  Stealth |
  
 ---
  
