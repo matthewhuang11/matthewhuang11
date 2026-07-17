@@ -16,7 +16,7 @@ CS @ Georgia Tech ' 30 &nbsp;·&nbsp;
 | [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of sticky notes for capturing thoughts without friction. | Live |
 | [**Daybreak**](https://daybreaklanding.vercel.app/) | The calm, intentional entry point to your day | Live |
 | [**GreenGrid**](https://devpost.com/software/conduit-jp6nfl?_gl=1*108z8rf*_gcl_au*MTIzNDMxNzkyMC4xNzgxMjIxNzU1*_ga*MTMwNDU2NTY2Ny4xNzgxMjIxNzU2*_ga_0YHJK3Y10M*czE3ODE4ODY2ODckbzE4JGcxJHQxNzgxODg2Njk4JGo0OSRsMCRoMA..) | Smarter green space, for the neighborhoods that need it most. | Live |
-| **Corpus** | build cool stuff |  Stealth |
+| **Corpus** | build cool stuff |  in-progress |
 | **Warden** | the only limit is your imagination |  Stealth |
  
 ---
