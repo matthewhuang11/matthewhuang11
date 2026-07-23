@@ -9,19 +9,20 @@ CS @ Georgia Tech ' 30 &nbsp;·&nbsp;
  
 ---
  
-### 🛠️ Projects
+### 🐡 Projects
  
 | Project | Description | Status |
 |---------|-------------|--------|
+| [**GreenGrid**](https://devpost.com/software/conduit-jp6nfl?_gl=1*108z8rf*_gcl_au*MTIzNDMxNzkyMC4xNzgxMjIxNzU1*_ga*MTMwNDU2NTY2Ny4xNzgxMjIxNzU2*_ga_0YHJK3Y10M*czE3ODE4ODY2ODckbzE4JGcxJHQxNzgxODg2Njk4JGo0OSRsMCRoMA..) | Smarter green space, for the neighborhoods that need it most. | Live |
+| [**FHE Test**](https://github.com/matthewhuang11/FHEtest) | Testing fully homomorphic encryption | Live |
 | [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of sticky notes for capturing thoughts without friction. | Live |
 | [**Daybreak**](https://daybreaklanding.vercel.app/) | The calm, intentional entry point to your day | Live |
-| [**GreenGrid**](https://devpost.com/software/conduit-jp6nfl?_gl=1*108z8rf*_gcl_au*MTIzNDMxNzkyMC4xNzgxMjIxNzU1*_ga*MTMwNDU2NTY2Ny4xNzgxMjIxNzU2*_ga_0YHJK3Y10M*czE3ODE4ODY2ODckbzE4JGcxJHQxNzgxODg2Njk4JGo0OSRsMCRoMA..) | Smarter green space, for the neighborhoods that need it most. | Live |
 | **Corpus** | build cool stuff |  in-progress |
-| **Warden** | the only limit is your imagination |  Stealth |
+| **Warden** | TBA |  in-progress |
  
 ---
  
-### 🧰 Stack
+### 🌊 Stack
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -33,15 +34,15 @@ CS @ Georgia Tech ' 30 &nbsp;·&nbsp;
  
 ---
  
-### 📚 Currently exploring
+### 🐟 Currently exploring
  
 Entreprenuership &nbsp;·&nbsp; AI/ML Fundamentals &nbsp;·&nbsp; Starting at GT this fall
  
 ---
  
-### ✨ Outside of code
+### 🐋 Hobbies
  
-`📝 Poetry` &nbsp; `🎹 Piano` &nbsp; `🏃 Running` &nbsp; `🏗️ Building things`
+`📝 Poetry` &nbsp; `🎹 Piano` &nbsp; `🏃 Running` &nbsp; `🤸🏻‍♂️ Calisthenics` &nbsp;
  
 ---
  
