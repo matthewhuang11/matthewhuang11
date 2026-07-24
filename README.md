@@ -5,7 +5,7 @@
  
 ### Matthew Huang
  
-CS @ Georgia Tech ' 30 &nbsp;·&nbsp; 
+CS @ Georgia Tech ' 30 &nbsp;·&nbsp; Whip (YC W24)
  
 ---
  
