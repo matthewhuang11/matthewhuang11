@@ -17,7 +17,8 @@ CS @ Georgia Tech ' 30 &nbsp;·&nbsp; Building @ Whip (YC W24)
 | [**FHE Test**](https://github.com/matthewhuang11/FHEtest) | Testing fully homomorphic encryption | Live |
 | [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of sticky notes for capturing thoughts without friction. | Live |
 | [**Daybreak**](https://daybreaklanding.vercel.app/) | The calm, intentional entry point to your day | Live |
-| [**Warden**](https://github.com/matthewhuang11/warden) | security layer for ai agents | Live |
+| [**Warden**] | security layer for ai agents | TBA |
+| [**Athena**]| TBA | TBA |
  
 ---
  
