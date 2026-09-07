@@ -13,11 +13,13 @@ CS @ Georgia Tech ' 30 &nbsp;·&nbsp; Whip (YC W24)
  
 | Project | Description | Status |
 |---------|-------------|--------|
+| [**Warden**](https://github.com/matthewhuang11/warden) | security layer for ai agents | Live |
 | [**GreenGrid**](https://devpost.com/software/conduit-jp6nfl?_gl=1*108z8rf*_gcl_au*MTIzNDMxNzkyMC4xNzgxMjIxNzU1*_ga*MTMwNDU2NTY2Ny4xNzgxMjIxNzU2*_ga_0YHJK3Y10M*czE3ODE4ODY2ODckbzE4JGcxJHQxNzgxODg2Njk4JGo0OSRsMCRoMA..) | Smarter green space, for the neighborhoods that need it most. | Live |
 | [**FHE Test**](https://github.com/matthewhuang11/FHEtest) | Testing fully homomorphic encryption | Live |
-| [**Stickies**](https://stickies-seven.vercel.app) | A corkboard of sticky notes for capturing thoughts without friction. | Live |
 | [**Daybreak**](https://daybreaklanding.vercel.app/) | The calm, intentional entry point to your day | Live |
-| [**Warden**](https://github.com/matthewhuang11/warden) | security layer for ai agents | TBA |
+
+
+
  
 ---
  
