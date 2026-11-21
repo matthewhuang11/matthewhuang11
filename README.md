@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/matthewhuang11/matthewhuang11/main/scene.svg" width="100%" alt="Manhattan at dawn"/>
 </p>
----
  
 ### Matthew Huang
  
@@ -35,10 +34,7 @@ CS @ Georgia Tech ' 29 &nbsp;·&nbsp; Whip (YC W24)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
  
 ---
- 
-### 🐟 Currently exploring
-  
----
+
  
 ### 🐋 Hobbies
  
