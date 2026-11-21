@@ -5,7 +5,7 @@
  
 ### Matthew Huang
  
-CS @ Georgia Tech ' 30 &nbsp;·&nbsp; Whip (YC W24)
+CS @ Georgia Tech ' 29 &nbsp;·&nbsp; Whip (YC W24)
  
 ---
  
@@ -13,10 +13,10 @@ CS @ Georgia Tech ' 30 &nbsp;·&nbsp; Whip (YC W24)
  
 | Project | Description | Status |
 |---------|-------------|--------|
+| [**Rove**](https://devpost.com/software/rove-brf2qg) | orchestrated swarm of autonomous disaster response scouts | Live |
 | [**Warden**](https://github.com/matthewhuang11/warden) | security layer for ai agents | Live |
-| [**GreenGrid**](https://devpost.com/software/conduit-jp6nfl?_gl=1*108z8rf*_gcl_au*MTIzNDMxNzkyMC4xNzgxMjIxNzU1*_ga*MTMwNDU2NTY2Ny4xNzgxMjIxNzU2*_ga_0YHJK3Y10M*czE3ODE4ODY2ODckbzE4JGcxJHQxNzgxODg2Njk4JGo0OSRsMCRoMA..) | Smarter green space, for the neighborhoods that need it most. | Live |
-| [**FHE Test**](https://github.com/matthewhuang11/FHEtest) | Testing fully homomorphic encryption | Live |
-| [**Daybreak**](https://daybreaklanding.vercel.app/) | The calm, intentional entry point to your day | Live |
+| [**GreenGrid**](https://devpost.com/software/conduit-jp6nfl?_gl=1*108z8rf*_gcl_au*MTIzNDMxNzkyMC4xNzgxMjIxNzU1*_ga*MTMwNDU2NTY2Ny4xNzgxMjIxNzU2*_ga_0YHJK3Y10M*czE3ODE4ODY2ODckbzE4JGcxJHQxNzgxODg2Njk4JGo0OSRsMCRoMA..) | smarter green space, for the neighborhoods that need it most. | Live |
+| [**Daybreak**](https://daybreaklanding.vercel.app/) | the calm, intentional entry point to your day | Live |
 
 
 
@@ -37,9 +37,7 @@ CS @ Georgia Tech ' 30 &nbsp;·&nbsp; Whip (YC W24)
 ---
  
 ### 🐟 Currently exploring
- 
-Entreprenuership &nbsp;·&nbsp; AI/ML Fundamentals &nbsp;·&nbsp; Starting at GT this fall
- 
+  
 ---
  
 ### 🐋 Hobbies
